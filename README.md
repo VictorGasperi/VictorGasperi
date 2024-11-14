@@ -10,7 +10,7 @@ My name is Victor Gasperi. I'm currently studying Computer Engineering at [Mauá
 ## Social 🛜
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vi_gasperi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-augusto-de-gasperi-ab75451b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPzOp1W31R4ioQjifpkTjpw%3D%3D) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vi_gasperi/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vi_gasperi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-augusto-de-gasperi-ab75451b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPzOp1W31R4ioQjifpkTjpw%3D%3D) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/vi_gasperi/)  [![HackerHank](https://img.shields.io/badge/https://www.hackerrank.com/profile/victorgasperi?style=for-the-badge&logo=HackerRank&logoColor=white)]
 
 ## Status ✅
 
